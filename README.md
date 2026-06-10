@@ -125,7 +125,7 @@ hireai-job-portal/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOURUSERNAME/hireai-job-portal.git
+git clone https://github.com/Rakesh-Bagul-Developer/hireai-job-portal.git
 cd hireai-job-portal
 ```
 
@@ -329,9 +329,9 @@ npm start
 ## 👨‍💻 Developer
 
 **Rakesh Bagul**
-- 🌐 GitHub: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
-- 💼 LinkedIn: [linkedin.com/in/YOURPROFILE](https://linkedin.com/in/YOURPROFILE)
-- 📧 Email: rakeshbagul@gmail.com
+- 🌐 GitHub: [github.com/Rakesh-Bagul-Developer](https://github.com/Rakesh-Bagul-Developer)
+- 💼 LinkedIn: [linkedin.com/in/rakesh-bagul-developer](https://linkedin.com/in/rakesh-bagul-developer)
+- 📧 Email: rakeshbagul794@gmail.com
 
 ---
 
